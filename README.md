@@ -28,7 +28,10 @@ Parameters are shown bellow:
                         weighted\_jaccard\_distance, euclidean\_distance, correlation\_distance, and
                         manhattan\_distance (default: weighted\_jaccard\_distance).
 
-For more information, please use python interaction_redundancy_cal.py -h 
+For more information, please use python interaction_redundancy_cal.py -h. 
 
-### Maintainer
+## Output
+Each row in the output file represents a sample, with the first column displaying the interaction redundancy value and the second column displaying the interaction diversity value.
+
+## Maintainer
 Ruo Han Wang ruohawang2-c@my.cityu.edu.hk
