@@ -17,7 +17,7 @@ git clone https://github.com/deepomicslab/Interaction-redundancy.git
 
 ## Usage
 ```shell
-python interaction_redundancy_cal.py  --ICN_ref ref_ICN.csv --abundance_file example_data/abundance_example.tsv
+python interaction_redundancy_cal.py --ICN_ref ref_ICN.csv --abundance_file example_data/abundance_example.tsv
 ```
 Parameters are shown bellow:
 
